@@ -19,7 +19,7 @@ Built for the community. Powered by intelligence.
 
 ## Our Vision
 
-AIXBT answers crypto questions.
+Most AI assistants only answer crypto questions.
 NEURON AI answers everything.
 
 - Crypto prices & signals
