@@ -52,7 +52,7 @@ Most AI agents don't actually know you.
 | Buy Tax | 0% |
 | Sell Tax | 0% |
 | Team Tokens | 0% |
-| Launch | Pump.fun Fair Launch |
+| Launch | Robinhood cahin |
 | Contract | Renounced |
 | Liquidity | Locked |
 
