@@ -47,7 +47,7 @@ Most AI agents don't actually know you.
 
 | Parameter | Value |
 |-----------|-------|
-| Network | Solana |
+| Network | Robinhood Chain |
 | Total Supply | 1,000,000,000 |
 | Buy Tax | 0% |
 | Sell Tax | 0% |
